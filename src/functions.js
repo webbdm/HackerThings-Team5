@@ -1,0 +1,1 @@
+export const showMessage = () => console.log('Helper functions');
